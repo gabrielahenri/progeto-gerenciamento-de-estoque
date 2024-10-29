@@ -1,0 +1,6 @@
+[submodule "progeto-gerenciamento-de-estoque"]
+	path = progeto-gerenciamento-de-estoque
+	url = https://github.com/gabrielahenri/progeto-gerenciamento-de-estoque.git
+[submodule "sistema_estoque"]
+	path = sistema_estoque
+	url = https://github.com/gabrielahenri/sistema_estoque.git
